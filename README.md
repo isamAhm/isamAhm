@@ -3,11 +3,22 @@
 
 <p align="left">
   <img
+    src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0"
+    alt="title"
+    align="right"
+    width="350"
+    boarder-radius=
+  />
+</p>
+
+
+<p align="left">
+  <img
     src="https://komarev.com/ghpvc/?username=isamahm&label=Profile%20views&color=0e75b6&style=flat"
     alt="isamahm"
   />
 </p>
-🔭 I’m currently working on a movie streaming website called StreamBox.<br>🌱 I’m also currently learning backend frameworks to strengthen my backend<br>knowledge.<br>👨‍💻 You can also check my projects here on my portfolio https://www.isamahmed.duckdns.org/<br>💬 Ask me about ReactJS, and MongoDB.<br>📫 You can reach me with my Email isam.ahmedh8@gmail.com.
+🔭 I’m currently working on a movie streaming website called StreamBox.<br>🌱 I’m also currently learning backend frameworks to strengthen my backend<br>knowledge.<br>👨‍💻 You can also check my projects on my portfolio https://www.isamahmed.duckdns.org/<br>💬 Ask me about ReactJS, and MongoDB.<br>📫 You can reach me with my Email isam.ahmedh8@gmail.com.
 
 
 ## 🌐 Socials:
@@ -66,12 +77,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isamAhm&theme=neon&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamAhm&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isamAhm&theme=neon&hide_border=true&include_all_commits=false&count_private=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamAhm&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote  
+
+<div align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" height="200"/>  
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=isamAhm&limit=5&theme=neon&combine_all_yearly_contributions=true)
