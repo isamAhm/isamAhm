@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f02e3a82-865a-4ee6-be95-0d6e7635d00f" width="45%">
+  <img src="https://i.redd.it/useo8hrsi6k91.png" width="45%">
+</div>
+
+
+
 <h1 align="center">Hi there👋, I'm Isam Ahmed</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia.</h3>
 
@@ -6,9 +13,7 @@
     src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0"
     alt="title"
     align="right"
-    width="350"
-    boarder-radius=
-  />
+    width="350" />
 </p>
 
 
@@ -87,8 +92,21 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" height="200"/>  
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=isamAhm&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <div>
+    <h3>🔝 Top Contributed Repo</h3>
+    <img src="https://github-contributor-stats.vercel.app/api?username=isamAhm&limit=5&theme=neon&combine_all_yearly_contributions=true"/>
+    <img 
+      src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" 
+      alt="title" 
+      width="350" 
+      align="right"
+    />
+  </div>
+
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isamAhm&icon=0&color=0)](https://visitcount.itsvg.in)
