@@ -94,7 +94,10 @@
 
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=isamAhm&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=isamAhm&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
+
 
 
 ---
