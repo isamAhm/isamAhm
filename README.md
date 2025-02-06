@@ -1,3 +1,4 @@
+<p align="center">Contribution Goal</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f02e3a82-865a-4ee6-be95-0d6e7635d00f" width="45%">
   <img src="https://i.redd.it/useo8hrsi6k91.png" width="45%">
