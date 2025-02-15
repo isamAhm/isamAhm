@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=isamAhm&theme=highcontrast&hide_border=true&border_radius=15&sideNums=4F9DEB&sideLabels=4A3FEB&currStreakNum=0422EB" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=isamAhm&theme=highcontrast&hide_border=true&border_radius=15&sideNums=4F9DEB&sideLabels=4A3FEB&currStreakNum=0422EB" />
   </a>
 </p>
 
