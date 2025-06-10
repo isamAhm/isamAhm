@@ -24,7 +24,7 @@
     alt="isamahm"
   />
 </p>
-🔭 I’m currently working on a movie streaming website called StreamBox.<br>🌱 I’m also currently learning backend frameworks to strengthen my backend knowledge.<br>👨‍💻 You can also check my projects on my portfolio https://www.isamahmed.duckdns.org/<br>💬 Ask me about ReactJS, and MongoDB.<br>📫 You can reach me with my Email isam.ahmedh8@gmail.com.
+🔭 I’m currently working on a movie streaming website called StreamBox.<br>🌱 I’m also currently learning deep learning and machine learning to strengthen my AI knowledge.<br>👨‍💻 You can also check my projects on my portfolio https://www.isamahmed.duckdns.org/<br>💬 Ask me anything about ReactJS, Nextjs, postgresql and MongoDB.<br>📫 You can reach me with my Email:- Work email: isam.ahmed-ug@aau.edu.et Personal email: isam.ahmedh8@gmail.com.
 
 
 ## 🌐 Socials:
